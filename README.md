@@ -69,6 +69,12 @@
 </p>
 
 
+<div align="center">
+  
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+</div>
+
+
 <!-- Certifications -->
 <h2 id="certifications"> :small_orange_diamond: Certifications 🎓 </h2>
 <div align="center">
@@ -127,10 +133,7 @@
 
 
 
-<div align="center">
-  
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-</div>
+
 
 
 
