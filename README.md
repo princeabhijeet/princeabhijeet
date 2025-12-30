@@ -11,7 +11,7 @@
 <p>
   10+ years helping organizations develop, maintain & scale Java-based dynamic, real time web applications.
 
-  ᴀʀᴇᴀ ᴏꜰ ᴇxᴘᴇʀᴛɪꜱᴇ
+  ᴀrea of ᴇxpertise
 ------------------------------
 Microservices | Java Backend | Object Oriented Programming | Server Side Programming | API Design & Development | Real-time Data Streaming | Business Process & Workflow Automation | Cloud
 
