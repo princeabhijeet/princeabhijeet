@@ -56,12 +56,9 @@
   <img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" />
 </div>
 
-<div align="center">
-  
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-</div>
 
-## Github Stats:
+
+<h2 id="stats"> :small_orange_diamond: Stats</h2>
 <p align="center">
     <a href="https://github.com/tayyabadev">
         <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=princeabhijeet&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -70,7 +67,7 @@
 </p>
 
 
-### Connect with me!
+<h2 id="connect"> :small_orange_diamond: Connect</h2>
 <div>
     <a href="https://www.linkedin.com/in/princeabhijeet/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
@@ -78,6 +75,13 @@
     <a href="https://www.credly.com/users/prince-abhijeet">
         <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Credly" width="35" height="35"/>
     </a>
+</div>
+
+
+
+<div align="center">
+  
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 </div>
 
 
