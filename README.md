@@ -63,10 +63,15 @@
 </div>
 
 <p align="center">
-   <a href="https://github.com/tayyabadev"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=princeabhijeet&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
-   </a>  
- </p>
+  <a href="https://github.com/tayyabadev"> 
+    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=princeabhijeet&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+  </a>  
+</p>
+
+<div id="header" align="center">
+ <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+  <img src="https://komarev.com/ghpvc/?username=tayyabdev&style=for-the-badge&color=orange" alt=""/>
+</div>
 
 
 ### Connect with me!
