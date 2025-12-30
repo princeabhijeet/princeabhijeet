@@ -3,10 +3,8 @@
 </p>
 
 <!-- Hello, it's Prince Abhijeet -->
-<p align="left">
-  <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Prince+Abhijeet;Java+Developer" alt="Java Developer"/>
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=D9BED1&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Prince+Abhijeet;Java+Developer;" alt="Typing SVG" />
 </p>
 
 <!-- Skill icons -->
