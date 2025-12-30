@@ -1,6 +1,8 @@
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<p align="center"> 
+  <img src="gif/prince_abhijeet_github_image.jpeg" alt="Prince Abhijeet" width="100px" height="100px">
+</p>
 
-<!-- My Skills -->
+
 <h2 id="skills"> :pencil: Skills</h2>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
