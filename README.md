@@ -21,7 +21,7 @@
   <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
 
-<h2 id="tools"> :pencil: Tools / IDEs</h2>
+<h2 id="tools"> :pencil: Tools</h2>
 <p>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img alt="Rancher" src="https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white" />
