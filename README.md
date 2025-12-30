@@ -22,7 +22,7 @@
 <div align="center">
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-2088FF?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-2088FF?style=for-the-badge&logo=springboot&logoColor=%23355E3B&logoSize=auto&color=%2350C878" />
   <img alt="Microservices" src="https://img.shields.io/badge/-Microservices-2088FF?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
   <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
