@@ -33,8 +33,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2088FF?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Azure Cloud Platform" src="https://img.shields.io/badge/-Azure%20Cloud%20Platform-2088FF?style=for-the-badge&logo=iCloud&logoColor=dark%20blue&color=%2300FFFF" />
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%2523121011?style=for-the-badge&logo=github&logoColor=black&logoSize=auto&color=white" />
   <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%2523181717?style=for-the-badge&logo=gitlab&logoColor=orange&logoSize=auto&color=black" />
 </div>
 
