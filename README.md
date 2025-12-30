@@ -2,6 +2,9 @@
   <img src="gif/my_name_with_java_logo.jpeg" alt="Prince Abhijeet" width="400px" height="400px">
 </p>
 
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+
 <div align="center">
   
   [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/princeabhijeet)
