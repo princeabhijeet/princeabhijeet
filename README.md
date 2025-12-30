@@ -2,8 +2,11 @@
   <img src="gif/my_name_with_java_logo.jpeg" alt="Prince Abhijeet" width="400px" height="400px">
 </p>
 
-### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,postgres,mysql,maven,eclipse,azure,github,gitlab,gherkin,idea,kubernetes,postman,regex,vscode,docker,ai&perline=3" />
+  </a>
+</p>
 
 <div align="center">
   
