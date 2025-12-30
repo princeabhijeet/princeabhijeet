@@ -5,7 +5,7 @@
   <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-2088FF?style=for-the-badge&logo=springboot&logoColor=white" />
   <img alt="Microservices" src="https://img.shields.io/badge/-Microservices-2088FF?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-2088FF?style=for-the-badge&logo=Hibernate&logoColor=white" />
+  <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
   <img alt="Databases" src="https://img.shields.io/badge/-Databases-2088FF?style=for-the-badge&logo=dbeaver&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-f54988?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2088FF?style=for-the-badge&logo=docker&logoColor=white" />
