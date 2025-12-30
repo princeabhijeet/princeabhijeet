@@ -19,7 +19,7 @@
   
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-f54988?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2088FF?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Rancher" src="[https://img.shields.io/badge/-Docker-2088FF?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)" />
+  <img alt="Rancher" src="https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white" />
   
   <img alt="Azure Cloud Platform" src="https://img.shields.io/badge/-Azure%20Cloud%20Platform-2088FF?style=for-the-badge&logo=iCloud&logoColor=white" />
   
