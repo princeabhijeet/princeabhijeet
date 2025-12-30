@@ -14,7 +14,7 @@
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-f54988?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2088FF?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Azure Cloud Platform" src="https://img.shields.io/badge/-Azure%20Cloud%20Platform-2088FF?style=for-the-badge&logo=iCloud&logoColor=white" />
-  <img alt="JUnit" src="https://img.shields.io/badge/junit-2088FF?style=for-the-badge&logo=junit5&logoColor=white" /> 
+  <img alt="JUnit" src="https://img.shields.io/badge/JUnit5-f5f5f5?style=for-the-badge&logo=junit5&logoColor=dc524a" /> 
   <img alt="Git" src="https://img.shields.io/badge/-Git-2da327?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-2da327?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
