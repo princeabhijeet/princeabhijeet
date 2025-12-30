@@ -2,6 +2,7 @@
   <img src="gif/prince_abhijeet_github_image.jpeg" alt="Prince Abhijeet" width="400px" height="300px">
 </p>
 
+<h1 align="center"> Prince Abhijeet </h1>
 
 <h2 id="skills"> :small_orange_diamond: Skills</h2>
 <p>
