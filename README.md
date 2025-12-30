@@ -9,7 +9,7 @@
 </div>
 
 <h2 id="skills"> :small_orange_diamond: Skills</h2>
-<p>
+<div align="center">
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-2088FF?style=for-the-badge&logo=springboot&logoColor=white" />
@@ -24,7 +24,7 @@
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
-</p>
+</div>
 
 <h2 id="skills"> :small_orange_diamond: Tools</h2>
 <p>
