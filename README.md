@@ -11,8 +11,11 @@
 <h2 id="about"> :small_orange_diamond: About</h2>
 <div align="center">
   10+ years helping organizations develop, maintain & scale Java-based dynamic, real time web applications.
-  Microservices | Java Backend | Object Oriented Programming | Server Side Programming | API Design & Development | Real-time Data Streaming | Business Process & Workflow Automation | Cloud
 </div>
+<div align="center">
+  Microservices | Java Backend | Object Oriented Programming | Server Side Programming | API Design & Development | Real-time Data Streaming | Business Process & Workflow Automation | Azure Cloud
+</div>
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
