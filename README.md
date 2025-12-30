@@ -83,6 +83,11 @@
           <img src="./badges/hashicorp_certified_terraform_associate.png" alt="HashiCorp Certified Terraform Associate (003)" style="width:120px; max-width:100%; height:auto;" />
         </a>
       </td>
+      <td align="center">
+        <a href="https://training.flowable.com/w/ch/courses/18-flowable-essentials/">
+          <img src="./badges/flowable_essentails.jpg" alt="Flowable Essentails" style="width:120px; max-width:100%; height:auto;" />
+        </a>
+      </td>
     </tr>
   </table>
 </div>
