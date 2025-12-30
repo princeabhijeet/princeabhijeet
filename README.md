@@ -111,7 +111,7 @@
 
 <!-- Connect with me -->
 <h2 id="connect"> :small_orange_diamond: Connect</h2>
-<div>
+<div align="center">
     <a href="https://www.linkedin.com/in/princeabhijeet/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
