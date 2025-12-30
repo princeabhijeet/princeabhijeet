@@ -2,12 +2,14 @@
   <img src="gif/my_name_with_java_logo.jpeg" alt="Prince Abhijeet" width="400px" height="400px">
 </p>
 
-<p align="right">
+<!-- Hello, it's Prince Abhijeet -->
+<p align="left">
   <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Prince+Abhijeet;Java+Developer" alt="Java Developer"/>
   </a>
 </p>
 
+<!-- Skill icons -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,kafka,regex,gherkin,maven,postman,azure,docker,kubernetes,git,github,gitlab,ai,eclipse,idea,vscode&perline=10&theme=dark" />
@@ -19,7 +21,8 @@
   <img src="https://komarev.com/ghpvc/?username=princeabhijeet&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-<h2 id="about"> :small_orange_diamond: About</h2>
+<!-- About me -->
+<h2 id="about"> :small_orange_diamond: About me</h2>
 <div align="left">
   10+ years helping organizations develop, maintain & scale Java-based dynamic, real time web applications.
 </div>
@@ -28,7 +31,7 @@
 </div>
 
 
-
+<!-- Skill badges -->
 <h2 id="skills"> :small_orange_diamond: Skills</h2>
 <div align="center">
   <img alt="Java" src="https://img.shields.io/badge/java-%2523ED8B00?style=for-the-badge&logo=openjdk&logoColor=black&labelColor=blue&color=%2300FFFF" />
@@ -57,7 +60,7 @@
 </div>
 
 
-
+<!-- Stats -->
 <h2 id="stats"> :small_orange_diamond: Stats</h2>
 <p align="center">
     <a href="https://github.com/princeabhijeet">
@@ -67,6 +70,7 @@
 </p>
 
 
+<!-- Connect with me -->
 <h2 id="connect"> :small_orange_diamond: Connect</h2>
 <div>
     <a href="https://www.linkedin.com/in/princeabhijeet/">
