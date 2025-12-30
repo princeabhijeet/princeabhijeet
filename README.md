@@ -10,7 +10,7 @@
 <!-- Skill icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,kafka,regex,gherkin,maven,postman,azure,docker,kubernetes,git,github,gitlab,ai,eclipse,idea,vscode&perline=6&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,kafka,regex,gherkin,maven,postman,azure,docker,kubernetes,git,github,gitlab,ai,eclipse,idea,vscode,md&perline=7&theme=dark" />
   </a>
 </p>
 
