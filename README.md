@@ -85,7 +85,7 @@
       </td>
       <td align="center">
         <a href="https://training.flowable.com/w/ch/courses/18-flowable-essentials/">
-          <img src="./badges/flowable_essentails.jpg" alt="Flowable Essentails" style="width:120px; max-width:100%; height:auto;" />
+          <img src="./badges/flowable_essentails.png" alt="Flowable Essentails" style="width:120px; max-width:100%; height:auto;" />
         </a>
       </td>
     </tr>
