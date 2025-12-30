@@ -14,10 +14,9 @@
   </a>
 </p>
 
-<div align="center">
-  
-  [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/princeabhijeet)
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princeabhijeet)
+<!-- Profile Views -->
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=princeabhijeet&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <h2 id="about"> :small_orange_diamond: About</h2>
@@ -67,10 +66,6 @@
     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=princeabhijeet&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
   </a>  
 </p>
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=princeabhijeet&style=for-the-badge&color=orange" alt=""/>
-</div>
 
 
 ### Connect with me!
