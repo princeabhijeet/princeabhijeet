@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="gif/my_name_with_java_logo.jpeg" alt="Prince Abhijeet" width="400px" height="300px">
+  <img src="gif/my_name_with_java_logo.jpeg" alt="Prince Abhijeet" width="400px" height="400px">
 </p>
 
 <div align="center">
