@@ -8,6 +8,10 @@
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princeabhijeet)
 </div>
 
+<p>
+  10+ years helping organizations develop, maintain & scale Java-based dynamic, real time web applications.
+</p>
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2 id="skills"> :small_orange_diamond: Skills</h2>
