@@ -61,7 +61,7 @@
 
 <!-- Stats -->
 <h2 id="stats"> :small_orange_diamond: Stats</h2>
-<p align="center">
+<p align="left">
     <a href="https://github.com/princeabhijeet">
         <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=princeabhijeet&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=princeabhijeet&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
@@ -77,7 +77,7 @@
 
 <!-- Certifications -->
 <h2 id="certifications"> :small_orange_diamond: Certifications 🎓 </h2>
-<div align="center">
+<div align="left">
   <table style="width:100%; table-layout:fixed;">
     <colgroup>
       <col style="width:16.66%">
