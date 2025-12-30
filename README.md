@@ -9,7 +9,7 @@
 </div>
 
 <h2 id="about"> :small_orange_diamond: About</h2>
-<div align="center">
+<div align="left">
   10+ years helping organizations develop, maintain & scale Java-based dynamic, real time web applications.
 </div>
 <div align="center">
