@@ -63,7 +63,7 @@
 </div>
 
 
-![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=princeabhijeet&show_icons=true)
+[![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=princeabhijeet)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Connect with me!
