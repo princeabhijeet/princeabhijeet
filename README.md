@@ -59,6 +59,31 @@
 </div>
 
 
+<!-- Certifications -->
+<h2 id="certifications"> :small_orange_diamond: 🎓 Certifications</h2>
+<div align="center">
+  <table style="width:100%; table-layout:fixed;">
+    <colgroup>
+      <col style="width:16.66%">
+      <col style="width:16.66%">
+      <col style="width:16.66%">
+      <col style="width:16.66%">
+      <col style="width:16.66%">
+      <col style="width:16.66%">
+    </colgroup>
+    <tr>
+      <!-- Icon Row -->
+      <td align="center">
+      <td align="center">
+        <a href="https://learn.microsoft.com/en-us/users/princeabhijeet-7076/credentials/87f32de66649c31f">
+          <img src="./badges/azure-az900.png" alt="Microsoft Azure Fundamentals (AZ-900)" style="width:120px; max-width:100%; height:auto;" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 <!-- Stats -->
 <h2 id="stats"> :small_orange_diamond: Stats</h2>
 <p align="center">
