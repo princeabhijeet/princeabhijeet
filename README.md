@@ -2,6 +2,10 @@
   <img src="gif/my_name_with_java_logo.jpeg" alt="Prince Abhijeet" width="400px" height="400px">
 </p>
 
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Prince+Abhijeet;Java+Developer" alt="Java Developer"/>
+</a>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,kafka,regex,gherkin,maven,postman,azure,docker,kubernetes,git,github,gitlab,ai,eclipse,idea,vscode&perline=10&theme=dark" />
