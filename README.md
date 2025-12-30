@@ -2,8 +2,6 @@
   <img src="gif/prince_abhijeet_github_image.jpeg" alt="Prince Abhijeet" width="400px" height="300px">
 </p>
 
-<h1 align="center"> Prince Abhijeet </h1>
-
 <div align="center">
   
   [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/princeabhijeet)
