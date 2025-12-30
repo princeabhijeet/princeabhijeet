@@ -79,11 +79,6 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://www.credly.com/badges/169c58d7-a0c4-4cbf-8422-301f636c8434/">
-          <img src="./badges/hashicorp_certified_terraform_associate.png" alt="HashiCorp Certified Terraform Associate (003)" style="width:120px; max-width:100%; height:auto;" />
-        </a>
-      </td>
-      <td align="center">
         <a href="https://training.flowable.com/w/ch/courses/18-flowable-essentials/">
           <img src="./badges/flowable_essentials.png" alt="Flowable Essentails" style="width:120px; max-width:100%; height:auto;" />
         </a>
@@ -91,6 +86,16 @@
       <td align="center">
         <a href="https://www.coursera.org/account/accomplishments/verify/BIW1J7CFOBO6">
           <img src="./badges/cucumber_bdd.png" alt="Cucumber BDD" style="width:120px; max-width:100%; height:auto;" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.hackerrank.com/certificates/18e902efc3d4">
+          <img src="./badges/hackerrank_java.png" alt="Hackerrank Java" style="width:120px; max-width:100%; height:auto;" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/badges/169c58d7-a0c4-4cbf-8422-301f636c8434/">
+          <img src="./badges/hashicorp_certified_terraform_associate.png" alt="HashiCorp Certified Terraform Associate (003)" style="width:120px; max-width:100%; height:auto;" />
         </a>
       </td>
     </tr>
