@@ -75,12 +75,12 @@
       <!-- Icon Row -->
       <td align="center">
         <a href="https://learn.microsoft.com/en-us/users/princeabhijeet-7076/credentials/87f32de66649c31f">
-          <img src="./badges/azure-az900.png" alt="Microsoft Azure Fundamentals (AZ-900)" style="width:120px; max-width:100%; height:auto;" />
+          <img src="./badges/azure-ai-fundamentals.png" alt="Microsoft Azure AI Fundamentals (AI-900)" style="width:120px; max-width:100%; height:auto;" />
         </a>
       </td>
       <td align="center">
-        <a href="https://learn.microsoft.com/en-us/users/princeabhijeet-7076/credentials/87f32de66649c31f">
-          <img src="./badges/azure-ai-fundamentals.png" alt="Microsoft Azure AI Fundamentals (AI-900)" style="width:120px; max-width:100%; height:auto;" />
+        <a href="https://www.credly.com/badges/169c58d7-a0c4-4cbf-8422-301f636c8434/">
+          <img src="./badges/hashicorp_certified_terraform_associate.png" alt="HashiCorp Certified Terraform Associate (003)" style="width:120px; max-width:100%; height:auto;" />
         </a>
       </td>
     </tr>
