@@ -6,6 +6,9 @@
   <img alt="Microservices" src="https://img.shields.io/badge/-Microservices-2088FF?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-2088FF?style=flat-square&logo=Hibernate&logoColor=white" />
   <img alt="Databases" src="https://img.shields.io/badge/-Databases-2088FF?style=flat-square&logo=dbeaver&logoColor=white" />
+
+
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-f54988?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2088FF?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Azure Cloud Platform" src="https://img.shields.io/badge/-Azure%20Cloud%20Platform-2088FF?style=flat-square&logo=iCloud&logoColor=white" />
 
