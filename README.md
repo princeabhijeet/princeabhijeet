@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-2088FF?style=flat-square&logo=oracle&logoColor=white" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-2088FF?style=flat-square&logo=springboot&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-2088FF?style=for-the-badge&logo=springboot&logoColor=white" />
   <img alt="Microservices" src="https://img.shields.io/badge/-Microservices-2088FF?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-2088FF?style=flat-square&logo=Hibernate&logoColor=white" />
   <img alt="Databases" src="https://img.shields.io/badge/-Databases-2088FF?style=flat-square&logo=dbeaver&logoColor=white" />
