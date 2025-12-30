@@ -8,31 +8,15 @@
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princeabhijeet)
 </div>
 
-<p>
+<h2 id="about"> :small_orange_diamond: About</h2>
+<div align="center">
   10+ years helping organizations develop, maintain & scale Java-based dynamic, real time web applications.
 
   ᴀrea of ᴇxpertise
 ------------------------------
 Microservices | Java Backend | Object Oriented Programming | Server Side Programming | API Design & Development | Real-time Data Streaming | Business Process & Workflow Automation | Cloud
 
-ᴛᴇᴄʜɴɪᴄᴀʟ ꜱᴋɪʟʟꜱ
-------------------------------
-• Java 8, OOPs, Collection Framework, Multithreading
-• Enterprise Framework - Spring (Core | MVC | JPA), Spring Boot, Hibernate ORM
-• Development Architecture - Monolithic, Microservices
-• Restful Web Service: Spring REST, Spring Web, Postman
-• Real-time Data Streaming - Apache Kafka (Producer, Consumer), Confluent Kafka (Connect, Stream)
-• Business Process & Workflow Automation - Flowable, Camunda
-• Build Automation Tool - Maven
-• Logging Framework - SLF4J with LOG4J2
-• Databases - PostgreSQL , Oracle 12c, MySQL, SQL Server – MS SQL Server 2017 v14, 
-• Database Clients - DBeaver , pgAdmin , Oracle SQL Developer v19.1, MSSMS v17.1
-• Unit Testing - Junit, Mockito 3, Power Mockito 2
-• BDD Integration Testing - Cucumber, Gherkin
-• Code Coverage - EclEmma
-• Static Code Analysis Tool - SonarLint, SonarQube
-• Cloud Technologies - AWS, Azure
-</p>
+</div>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
