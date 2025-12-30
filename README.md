@@ -8,6 +8,8 @@
   <img alt="Databases" src="https://img.shields.io/badge/-Databases-2088FF?style=flat-square&logo=dbeaver&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2088FF?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Azure Cloud Platform" src="https://img.shields.io/badge/-Azure%20Cloud%20Platform-2088FF?style=flat-square&logo=iCloud&logoColor=white" />
+
+  
   <img alt="JUnit" src="https://img.shields.io/badge/junit-2088FF?style=flat-square&logo=junit5&logoColor=white" /> 
 
   
