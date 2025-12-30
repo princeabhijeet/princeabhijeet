@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,postgres,mysql,maven,eclipse,azure,github,gitlab,gherkin,idea,kubernetes,postman,regex,vscode,docker,ai&perline=3" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,kafka,regex,gherkin,maven,postman,azure,docker,kubernetes,git,github,gitlab,ai,eclipse,idea,vscode&perline=5" />
   </a>
 </p>
 
