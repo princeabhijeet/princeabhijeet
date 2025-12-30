@@ -77,7 +77,7 @@
 
 <!-- Certifications -->
 <h2 id="certifications"> :small_orange_diamond: Certifications 🎓 </h2>
-<div align="left">
+<div align="center">
   <table style="width:100%; table-layout:fixed;">
     <colgroup>
       <col style="width:16.66%">
