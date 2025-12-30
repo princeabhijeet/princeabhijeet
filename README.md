@@ -63,6 +63,9 @@
 </div>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=princeabhijeet&show_icons=true)
+
+
 ### Connect with me!
 <div>
     <a href="https://www.linkedin.com/in/princeabhijeet/">
