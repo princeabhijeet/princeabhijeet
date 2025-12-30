@@ -62,8 +62,11 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 </div>
 
-
-[![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=princeabhijeet)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+   <a href="https://github.com/tayyabadev"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=princeabhijeet&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+   </a>  
+ </p>
 
 
 ### Connect with me!
