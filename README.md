@@ -25,6 +25,7 @@
 <h2 id="about"> :small_orange_diamond: About me</h2>
 <div align="left">
   10+ years helping organizations develop, maintain & scale Java-based dynamic, real time web applications.
+  
 </div>
 <div align="left">
   Microservices | Java Backend | Object Oriented Programming | Server Side Programming | API Design & Development | Real-time Data Streaming | Business Process & Workflow Automation | Azure Cloud
