@@ -79,6 +79,11 @@
           <img src="./badges/azure-az900.png" alt="Microsoft Azure Fundamentals (AZ-900)" style="width:120px; max-width:100%; height:auto;" />
         </a>
       </td>
+      <td align="center" width="16.66%">
+        <a href="https://learn.microsoft.com/en-us/users/princeabhijeet-7076/credentials/87f32de66649c31f">
+          <img src="./badges/azure-ai-fundamentals.png" width="120" alt="Azure AI Fundamentals (AI-900)"/>
+        </a>
+      </td>
     </tr>
   </table>
 </div>
