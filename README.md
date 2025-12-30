@@ -12,7 +12,7 @@
 <div align="left">
   10+ years helping organizations develop, maintain & scale Java-based dynamic, real time web applications.
 </div>
-<div align="center">
+<div align="left">
   Microservices | Java Backend | Object Oriented Programming | Server Side Programming | API Design & Development | Real-time Data Streaming | Business Process & Workflow Automation | Azure Cloud
 </div>
 
