@@ -17,7 +17,6 @@
 </div>
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2 id="skills"> :small_orange_diamond: Skills</h2>
 <div align="center">
